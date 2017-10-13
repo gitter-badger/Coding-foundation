@@ -9,7 +9,7 @@ We have this contributing guidelines to make it easy for you to get involved. If
 We have a [Code of Conduct](./codeofconduct.md) which will be enforced in all aspects of the project.
 Please make sure you read it first 🙂.
 
-Also, before getting started with contributing please read the [Readme.md](./readme.md) file.
+Also, before getting started with contributing please read the [Readme](README.md) file.
 
 
 ## What's already been done and what is underway?
