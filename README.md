@@ -27,7 +27,7 @@ The main point of access to Coding Foundation will be via the website. From ther
 
 🎉🎉  Thanks for asking!!! Everyone is more than welcome to join and contribute to this project.
 
-Please make sure to read our [Contributor guidelines](./CONTRIBUTING.md).  There you will find important information on how to contribute to this project.
+Please make sure to read our [Contributor guidelines](CONTRIBUTING.md).  There you will find important information on how to contribute to this project.
 
 
 ## A bit more about the project
