@@ -6,7 +6,7 @@ avatar: ./images/role_model/<image> #your profile picture
 twitter:
 github:
 personal_website:
-----
+---
 
 ## What do you do?
 
