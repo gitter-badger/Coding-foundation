@@ -2,7 +2,7 @@
 layout: role_model
 name:
 position: #what is your professional role if applicable
-avatar: ./images/role_model/<image> #your profile picture
+avatar: ./images/role_models/<image> #your profile picture
 twitter:
 github:
 personal_website:
