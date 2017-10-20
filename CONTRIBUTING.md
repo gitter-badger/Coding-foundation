@@ -21,6 +21,18 @@ https://github.com/trallard/Coding-foundation/issues).
 
 The issues there will be labelled according to the level of support/help it needs. It can be anything from a general question aiming for a discussion or brainstorming to something more technical like fixing a bug or helping a member of our team with specific tasks.
 
+<h3> <font color='#52259E'> Share your stories </font></h3>
+We have created a special issue for this!! Check this out [here](https://github.com/trallard/Coding-foundation/issues/4)!!!
+
+Do you want to share your story and inspire the new generation in STEM???
+1. To submit an entry fork this repository
+2. Make a copy of the [role model story template](./role_models/template.md) in the role_models folder
+3. Rename this with your own name
+4. Type away!!!
+5. Add a profile image and update the image section in the role model entry!
+6. Push and create a Pull Request!
+
+
 
 ## Make a change
 
