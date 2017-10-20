@@ -38,3 +38,6 @@ If you want to know more about the projects and the programe go [here](https://m
 You can also follow [@MozOpenLaders](https://twitter.com/MozOpenLeaders) on Twitter for updates.
 
 Also if you want to check the cohort's demos go to [https://medium.com/@MozOpenLeaders/announcing-our-round-4-demos-828976f6ac78https://medium.com/@MozOpenLeaders/announcing-our-round-4-demos-828976f6ac78](https://medium.com/@MozOpenLeaders/announcing-our-round-4-demos-828976f6ac78)
+
+
+![mozilla](./images/Mozilla_logo.png)
