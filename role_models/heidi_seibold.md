@@ -2,7 +2,7 @@
 layout: role_model
 name: Heidi Seibold
 position: PhD candidate in compuational biostatistics
-avatar: ./images/role_model/<image> #your profile picture
+avatar: ./images/role_models/heidi_seibold.jpg
 twitter: @HeidiBaya 
 github: @HeidiSeibold
 personal_website: http://heidiseibold.github.io
