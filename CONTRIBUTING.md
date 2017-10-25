@@ -6,7 +6,7 @@ We have this contributing guidelines to make it easy for you to get involved. If
 
 ## Contributing guidelines
 
-We have a [Code of Conduct](./codeofconduct.md) which will be enforced in all aspects of the project.
+We have a [Code of Conduct](./code_of_conduct.md) which will be enforced in all aspects of the project.
 Please make sure you read it first 🙂.
 
 Also, before getting started with contributing please read the [Readme](README.md) file.
