@@ -1,7 +1,7 @@
 # Coding-foundation
 
 ## What is coding foundation?
-Coding foundation is an open source initiative aiming to increase the numbers of women and queer individuals in undergraduate courses related to computer science and associated tech areas.
+Coding foundation is an open source initiative aiming to increase the numbers of women and individuals belonging to the LGBTQIA community in undergraduate courses related to computer science and associated tech areas.
 
 As such we are focused on these main 3 tasks:
 1. Build a supportive, welcoming, and empowering community of individuals sharing common interests regardless of their cultural, educational, ethnic background, sexual orientation or any other dimension of diversity.
