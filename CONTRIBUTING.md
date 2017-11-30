@@ -66,3 +66,4 @@ Once you've identified one of the issues above that you feel you can contribute 
 [link_pushpullblog]: https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/
 [link_emojis]: http://www.emoji-cheat-sheet.com/
 [link_pullrequest]: https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/
+[link_updateupstreamwiki]:  https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
