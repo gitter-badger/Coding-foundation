@@ -1,5 +1,7 @@
 # Coding-foundation
 
+[![Join the chat at https://gitter.im/Coding-foundation/Lobby](https://badges.gitter.im/Coding-foundation/Lobby.svg)](https://gitter.im/Coding-foundation/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## What is coding foundation?
 Coding foundation is an open source initiative aiming to increase the numbers of women and individuals belonging to the LGBTQIA community in undergraduate courses related to computer science and associated tech areas.
 
